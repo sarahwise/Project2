@@ -1,0 +1,116 @@
+body {
+    background-color: #d9dcd6;
+    font-family: 'Odibee Sans';
+}
+
+.header {
+    padding: 30px;
+    color: black;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+.header div {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-size: 20px;
+}
+
+
+.header div ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+p {
+    font-size: 25px;
+}
+
+.hero {
+    height: 500px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../img/campus.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.content {
+    width: 40%;
+    margin-left: 50px;
+}
+
+.search-engine-optimization {
+    margin-bottom: 30px;
+    padding: 50px;
+    height: 300px;
+    color: black;
+}
+
+.online-reputation-management {
+    margin-bottom: 30px;
+    padding: 50px;
+    height: 300px;
+    color: black;
+}
+
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+    text-align: center;
+}
+
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+
+.footer {
+    padding: 30px;
+    clear: both;
+    text-align: center;
+}
+
+.card1 {
+    text-align: center;
+    margin-left: 1000px;
+    margin-top: -225px;
+    
+}
+
+#logInHere {
+
+    color: red;
+}
+.header a {
+    color: seashell;
+    background-color: seashell;
+}
+
+label {
+
+    color: white;
+}
+h2 {
+
+    color: white;
+}
+p {
+    color: seashell;
+}
+a:hover{
+    text-decoration: none;
+}
+
+input {
+    background-color: cornsilk;
+
+}
+
+
