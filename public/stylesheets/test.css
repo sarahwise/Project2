@@ -55,7 +55,7 @@ nav{
 	font-weight: 300;
 	transform: translateX(-100rem);
 	animation: slideIn .5s forwards;
-	}
+}
 
 .brand span{
 	color: crimson;
@@ -130,7 +130,7 @@ nav ul li a::after{
 	transition: opacity 650ms;
 	transform: scale(0);
 	opacity: 0;
-	display: none;
+  display: none;
 }
 
 nav ul li a:hover::before,
@@ -178,7 +178,7 @@ nav ul li a:hover::after{
 
 	.brand{
 		font-size: 5rem;
-	  }
+	}
   
   .overlay.menu-open,
   nav.menu-open{
